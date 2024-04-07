@@ -1,19 +1,19 @@
 # final-project-w24
 HTML Requirements
 
-- Create an index.html file and include the html boilerplate for correct document structure
-- The proper syntax used where required such as navigation, lists, sections, header, footer, paragraphs, div, etc.
-- HTML contains all the elements as per the provided mock-up
-- HTML elements have adequate use of attributes (id and classes) and structured in a way that sets you up for styling your css efficiently
-- HTML code is validated using https://validator.w3.org/#validate_by_input
-- HTML is properly formatted - neatly spaced and indented
+<!-- - Create an index.html file and include the html boilerplate for correct document structure -->
+<!-- - The proper syntax used where required such as navigation, lists, sections, header, footer, paragraphs, div, etc. -->
+<!-- - HTML contains all the elements as per the provided mock-up -->
+<!-- - HTML elements have adequate use of attributes (id and classes) and structured in a way that sets you up for styling your css efficiently -->
+<!-- - HTML code is validated using https://validator.w3.org/#validate_by_input -->
+<!-- - HTML is properly formatted - neatly spaced and indented -->
 
 CSS Requirements
 
-- Create a separate folder for your CSS file and place style.css within it.
+<!-- - Create a separate folder for your CSS file and place style.css within it. -->
 - Mobile-first approach in the styling (default styling is suitable for mobile and properties are adjusted for tablet and desktop when media queries are introduced).
-- The maximum width of the container is 1200px
-- Use the 'Poppins' Google font for the webpage
+<!-- - The maximum width of the container is 1200px -->
+<!-- - Use the 'Poppins' Google font for the webpage -->
 - Colours values used in the layout #fff, #222, #000,  and #f8fafc.
 - Font sizes for heading levels:
     h1 = 2.027rem
