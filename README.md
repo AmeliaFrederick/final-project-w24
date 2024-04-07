@@ -15,10 +15,10 @@ CSS Requirements
 <!-- - The maximum width of the container is 1200px -->
 <!-- - Use the 'Poppins' Google font for the webpage -->
 - Colours values used in the layout #fff, #222, #000,  and #f8fafc.
-- Font sizes for heading levels:
+<!-- - Font sizes for heading levels:
     h1 = 2.027rem
     h2 = 1.802rem
-    h3 = 1.266rem
+    h3 = 1.266rem -->
 - Use of CSS Grid properties for a minimum of one element
 - Use of CSS Flexbox properties for a minimum of one element 
 - No inline styles are used in the CSS *see note below
