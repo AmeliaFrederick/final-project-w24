@@ -11,10 +11,10 @@ HTML Requirements
 CSS Requirements
 
 <!-- - Create a separate folder for your CSS file and place style.css within it. -->
-- Mobile-first approach in the styling (default styling is suitable for mobile and properties are adjusted for tablet and desktop when media queries are introduced).
+<!-- - Mobile-first approach in the styling (default styling is suitable for mobile and properties are adjusted for tablet and desktop when media queries are introduced). -->
 <!-- - The maximum width of the container is 1200px -->
 <!-- - Use the 'Poppins' Google font for the webpage -->
-- Colours values used in the layout #fff, #222, #000,  and #f8fafc.
+<!-- - Colours values used in the layout #fff, #222, #000,  and #f8fafc. -->
 <!-- - Font sizes for heading levels:
     h1 = 2.027rem
     h2 = 1.802rem
@@ -22,8 +22,8 @@ CSS Requirements
 <!-- - Use of CSS Grid properties for a minimum of one element -->
 <!-- - Use of CSS Flexbox properties for a minimum of one element  -->
 <!-- - No inline styles are used in the CSS *see note below -->
-- Add a min-width media query for the screen size of 768px and above and adjust page to match the screenshot labeled 'product-page-768'
-- Add a min-width media query for the screen size of 960px and above and adjust page to match the screenshot labeled 'product-page-960'
+<!-- - Add a min-width media query for the screen size of 768px and above and adjust page to match the screenshot labeled 'product-page-768' -->
+<!-- - Add a min-width media query for the screen size of 960px and above and adjust page to match the screenshot labeled 'product-page-960' -->
 - CSS is properly formatted
 - Overall design executed well and closely matches the provided mockup
 - CSS code is validated using https://jigsaw.w3.org/css-validator/#validate_by_input
@@ -34,9 +34,9 @@ General Requirements
 - Submit proper links for project
 - Be sure to reference the assignment rubric to confirm you are completing all required work to receive full marks.
 
-- Note: There are a number of ways you can position elements but for this assignment I would like you use CSS grid and flexbox to arrange content using the layout in the design.
+<!-- - Note: There are a number of ways you can position elements but for this assignment I would like you use CSS grid and flexbox to arrange content using the layout in the design. -->
 
-- Please do not use inline/inline-block/block and/or float property. We have not covered the position property but I realize some of you may be familiar with positioning absolute or relative. You cannot use that either. Must be Flexbox or CSS Grid.
+<!-- - Please do not use inline/inline-block/block and/or float property. We have not covered the position property but I realize some of you may be familiar with positioning absolute or relative. You cannot use that either. Must be Flexbox or CSS Grid. -->
 
 How to submit
 
