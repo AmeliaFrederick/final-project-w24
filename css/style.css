@@ -220,7 +220,7 @@ footer {
     padding: 15px;
 }
 
-@media (min-width: 768px) {
+@media screen and (min-width: 768px) {
     /* body {
         background-color: blue;
     } */
@@ -253,7 +253,7 @@ footer {
    }
 }
 
-@media (min-width: 960px) {
+@media screen and (min-width: 960px) {
     /* body {
         background-color: green;
     } */
