@@ -19,9 +19,9 @@ CSS Requirements
     h1 = 2.027rem
     h2 = 1.802rem
     h3 = 1.266rem -->
-- Use of CSS Grid properties for a minimum of one element
-- Use of CSS Flexbox properties for a minimum of one element 
-- No inline styles are used in the CSS *see note below
+<!-- - Use of CSS Grid properties for a minimum of one element -->
+<!-- - Use of CSS Flexbox properties for a minimum of one element  -->
+<!-- - No inline styles are used in the CSS *see note below -->
 - Add a min-width media query for the screen size of 768px and above and adjust page to match the screenshot labeled 'product-page-768'
 - Add a min-width media query for the screen size of 960px and above and adjust page to match the screenshot labeled 'product-page-960'
 - CSS is properly formatted
