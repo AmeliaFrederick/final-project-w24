@@ -24,15 +24,15 @@ CSS Requirements
 <!-- - No inline styles are used in the CSS *see note below -->
 <!-- - Add a min-width media query for the screen size of 768px and above and adjust page to match the screenshot labeled 'product-page-768' -->
 <!-- - Add a min-width media query for the screen size of 960px and above and adjust page to match the screenshot labeled 'product-page-960' -->
-- CSS is properly formatted
-- Overall design executed well and closely matches the provided mockup
-- CSS code is validated using https://jigsaw.w3.org/css-validator/#validate_by_input
+<!-- - CSS is properly formatted
+- Overall design executed well and closely matches the provided mockup -->
+<!-- - CSS code is validated using https://jigsaw.w3.org/css-validator/#validate_by_input -->
 
 General Requirements
 
-- Proper folder structure and naming conventions used
+<!-- - Proper folder structure and naming conventions used
 - Submit proper links for project
-- Be sure to reference the assignment rubric to confirm you are completing all required work to receive full marks.
+- Be sure to reference the assignment rubric to confirm you are completing all required work to receive full marks. -->
 
 <!-- - Note: There are a number of ways you can position elements but for this assignment I would like you use CSS grid and flexbox to arrange content using the layout in the design. -->
 
